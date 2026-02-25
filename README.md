@@ -14,7 +14,7 @@ This repository contains small C++ solutions to improve problem-solving, logic b
 - Function-based solutions
 
 ## 📂 Current Files
-problem-solving-cpp
+max_of_three.cpp
 
 ## 🚀 Build & Run
 ```bash
